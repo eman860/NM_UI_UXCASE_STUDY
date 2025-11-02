@@ -66,9 +66,9 @@ These designs reflect a deep focus on **clarity, usability, and emotion** — al
 
 | Project | Figma Link |
 |----------|-------------|
-| 🧭 TravelMate | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=1-2149&t=M4Q8qMDySKabtDy5-1](#) |
-| 💪 FitLife | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=0-1&t=M4Q8qMDySKabtDy5-1](#) |
-| 🎵 MusicStream | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=1-2148&t=M4Q8qMDySKabtDy5-1](#) |
+| 🧭 TravelMate | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=1-2149&t=M4Q8qMDySKabtDy5-1] |
+| 💪 FitLife | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=0-1&t=M4Q8qMDySKabtDy5-1] |
+| 🎵 MusicStream | [https://www.figma.com/design/ACRnw87v7L9rS1GiTmMpBY/NM-UI-UX-CASE-STUDY?node-id=1-2148&t=M4Q8qMDySKabtDy5-1] |
 
 > *(Replace `#` with your actual Figma project URLs.)*
 
